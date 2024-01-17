@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://cyberevangelists.com" title="cyberevangelists.com">
+        <img src="https://www.cyberevangelists.com/assets/logo.png" alt="Tokyo Free Black Javascript Next.js Admin Dashboard">
+    </a>
+</p>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app --typescript`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Next.JS Dashboard
