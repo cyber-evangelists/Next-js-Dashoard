@@ -19,17 +19,12 @@ This dashboard is built with `Typescript` and [React Bootstrap](https://react-bo
 
 https://next-js-dashoard.vercel.app/
 
-[<img alt="Dashboard" width="400" src="https://user-images.githubusercontent.com/7660346/180629352-f92216e3-7cf4-4fba-92fa-089dd96b4478.png" />](https://next-js-dashoard.vercel.app/)
-
-| Mobile (collapsed)                                                                                                                                                                           | Mobile (expand)                                                                                                                                                                              |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<img alt="Dashboard" height="278" src="https://user-images.githubusercontent.com/7660346/190973509-f681c230-54ba-4ee5-bd8c-7929ef24b6aa.png" />](https://next-js-dashoard.vercel.app/) | [<img alt="Dashboard" height="278" src="https://user-images.githubusercontent.com/7660346/190973862-29c311ab-8867-4399-ad4d-01f2d073d7a2.png" />](https://next-js-dashoard.vercel.app/) |
 
 ### Sample page
 
 https://next-js-dashoard.vercel.app/pokemons
 
-[<img alt="Sample page" width="400" src="https://user-images.githubusercontent.com/7660346/183112188-75ffbd15-e7ef-455f-994b-945df16e5846.png">](https://next-js-dashoard.vercel.app/pokemons)
+[<img alt="Sample page" width="400" src="./public/12.png">](https://next-js-dashoard.vercel.app/pokemons)
 
 ### Login
 
@@ -48,13 +43,13 @@ https://next-js-dashoard.vercel.app/register
 First, setup the application:
 
 ```bash
-pnpm install
+npm i
 ```
 
 Then, run the development server:
 
 ```bash
-pnpm run dev
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
